@@ -31,7 +31,7 @@ The JavaScript implementation uses a function named `isEven` that also takes a s
 
 1. **Syntax**: 
    - In Python, functions are defined using the `def` keyword, whereas in JavaScript, the `function` keyword is used.
-   - Python uses `True` and `False` for boolean values, while JavaScript uses `true` and `false`.
+   - Java uses `True` and `False` for boolean values, while JavaScript uses `true` and `false`.
 
 2. **Type Coercion**:
    - JavaScript has type coercion, which can sometimes lead to unexpected results if the input is not properly handled. In contrast, Python is more strict with types.
